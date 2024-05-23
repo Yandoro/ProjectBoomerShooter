@@ -8,7 +8,7 @@
 
 class UStaticMeshComponent;
 
-UCLASS()
+UCLASS(Blueprintable, BlueprintType)
 
 class SHOOTERGAME_API ACPT_ItemPickup : public AActor
 {
@@ -21,4 +21,6 @@ public:
 protected:
 	UPROPERTY(EditDefaultsOnly, Category="Item Pickup")
 	TObjectPtr<UStaticMeshComponent> MeshComponent;
+
+
 };
