@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodsettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodsettings.h",
+            "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_common.h",
+            "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_codec.h",
+            "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_dsp.h",
+            "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_dsp_effects.h",
+            "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_output.h",
+            "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodsettings.generated.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\paths.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\developertoolsettings\\classes\\settings\\projectpackagingsettings.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\developertoolsettings\\uht\\projectpackagingsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

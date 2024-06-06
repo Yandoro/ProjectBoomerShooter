@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodstudiostyle.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "Includes": [
+            "g:\\boomershooter\\projectboomershooter\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodstudiostyle.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyle.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateborderbrush.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateboxbrush.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\brushes\\slatecolorbrush.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateroundedboxbrush.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateimagebrush.h",
+            "g:\\ue_5.4\\engine\\source\\editor\\editorstyle\\public\\editorstyleset.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "g:\\ue_5.4\\engine\\source\\editor\\editorstyle\\public\\interfaces\\ieditorstylemodule.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\core\\public\\modules\\moduleinterface.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\core\\public\\modules\\modulemanager.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
